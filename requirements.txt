@@ -1,0 +1,14 @@
+streamlit
+pandas
+plotly
+wordcloud
+scikit-learn
+seaborn
+matplotlib
+regex
+numpy
+scipy
+statsmodels
+folium
+streamlit-folium
+pyproj
